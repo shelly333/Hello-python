@@ -8,4 +8,9 @@ num4=400  # zhangsan操作
 
 num5=6666666
 
+
 num6=6000
+
+a=10
+b=20
+c=a+b
